@@ -66,6 +66,16 @@ section {
 .fa-youtube {
   color: white;
   font-size: 25px;
+  transition: 0.3s;
+}
+
+.fa-instagram:hover,
+.fa-envelope:hover,
+.fa-github:hover,
+.fa-line:hover,
+.fa-spotify:hover,
+.fa-youtube:hover {
+  opacity: 0.75;
 }
 
 .fa-heart {
