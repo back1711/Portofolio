@@ -1,0 +1,76 @@
+body {
+  margin-top: ;
+}
+.jumbotron {
+  background-color: #f4f4f4;
+  padding-top: 70px;
+}
+
+.jumbotron img {
+  width: 250px;
+}
+
+#edu,
+#projects {
+  background-color: #d6d6d6;
+}
+
+#skills,
+#contact {
+  background-color: #f4f4f4;
+}
+
+#edu,
+#skills,
+#projects,
+#contact {
+  margin-top: -50px;
+}
+
+#medsos {
+  margin-top: -110px;
+}
+section {
+  padding-top: 60px;
+}
+
+#edu .sma,
+.sdbox {
+  height: 100%;
+}
+
+#edu .card {
+  height: 450px;
+}
+
+#edu .card {
+  background-color: #d6d6d6;
+  border: none;
+}
+.sekolah img {
+  width: 100%;
+}
+
+#medsos {
+  padding-top: 0px;
+}
+
+#medsos li {
+  list-style: none;
+  padding-right: 20px;
+  display: inline-block;
+}
+
+.fa-instagram,
+.fa-envelope,
+.fa-github,
+.fa-line,
+.fa-spotify,
+.fa-youtube {
+  color: white;
+  font-size: 25px;
+}
+
+.fa-heart {
+  color: red;
+}
