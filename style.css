@@ -69,6 +69,10 @@ section {
   transition: 0.3s;
 }
 
+.fa-heart {
+  color: red;
+}
+
 .fa-instagram:hover,
 .fa-envelope:hover,
 .fa-github:hover,
@@ -76,8 +80,4 @@ section {
 .fa-spotify:hover,
 .fa-youtube:hover {
   opacity: 0.75;
-}
-
-.fa-heart {
-  color: red;
 }
