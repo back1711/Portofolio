@@ -1,23 +1,12 @@
-@media screen and (max-width: 768px) {
-  nav ul {
-    width: 100%;
+@media screen and (max-width: 1000px) {
+  #edu,
+  #skills,
+  #projects,
+  #contact {
+    margin-top: -10px;
   }
-  .sidebar {
-    display: none;
-  }
-  .card {
-    width: 40%;
-  }
-  .gallery-container {
-    width: 100%;
-  }
-}
 
-@media screen and (max-width: 600px) {
-  .card {
-    width: 60%;
-  }
-  .gallery-container {
-    width: 100%;
+  #medsos {
+    margin-top: -10px;
   }
 }
